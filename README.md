@@ -135,6 +135,8 @@ As seguintes tecnologias foram utilizadas na construção do projeto:
 ---
 ## 🦸 Autores
 
+💼 Clique no nome dos integrantes para ser direcionado ao nosso LinkedIn.
+
 <a href="https://www.linkedin.com/in/anny-d-719892274/" target="_blank">
 
 <strong>Anny Michelle Gomes Diniz Alves</strong>
@@ -171,7 +173,6 @@ As seguintes tecnologias foram utilizadas na construção do projeto:
 
 <br />
 
-[![Gmail Badge](https://img.shields.io/badge/-thaisluzferreira2004@gmail.com-c14438?style=flat-square\&logo=Gmail\&logoColor=white)](mailto:thaisluzferreira2004@gmail.com)
 
 ---
 
@@ -187,6 +188,3 @@ Consulte o arquivo [LICENSE](./LICENSE) para mais informações.
   Desenvolvido durante o <strong>Desafio de Ideias SENAI + FATEC Diadema</strong> 🚀
 </p>
 
-<p align="center">
-  Feito por <strong>Thais Ferreira</strong> 👋🏽
-</p>
