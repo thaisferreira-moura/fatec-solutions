@@ -134,32 +134,33 @@ As seguintes tecnologias foram utilizadas na construção do projeto:
 
 ---
 ## 🦸 Autores
-<a href="#">
+
+<a href="https://www.linkedin.com/in/anny-d-719892274/" target="_blank">
 
 <strong>Anny Michelle Gomes Diniz Alves</strong>
-<a href="https://www.linkedin.com/in/anny-d-719892274?utm_source=share_via&utm_content=profile&utm_medium=member_android">
+
 </a>
 
-<a href="#">
+<a href="https://www.linkedin.com/in/deivid-da-silva-afonso-dev/" target="_blank">
 
 <strong>David Afonso</strong>
-<a href="https://www.linkedin.com/in/deivid-da-silva-afonso-dev/">
+
 </a>
 
-<a href="#">
+<a href="https://www.linkedin.com/in/gustavo-rss/" target="_blank">
 
 <strong>Gustavo Robson</strong>
-<a href="https://www.linkedin.com/in/gustavo-rss?utm_source=share_via&utm_content=profile&utm_medium=member_ios">
 
 </a>
 
-<a href="https://br.linkedin.com/in/thaisferreirademoura2004">
+<a href="https://br.linkedin.com/in/thaisferreirademoura2004" target="_blank">
 
 <strong>Thais Ferreira de Moura</strong>
 
 </a>
 
 ---
+
 
 <p align="center">
   Desenvolvido pela equipe <strong>Fatec Solutions</strong> durante o
