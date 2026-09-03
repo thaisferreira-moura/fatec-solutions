@@ -134,27 +134,22 @@ As seguintes tecnologias foram utilizadas na construção do projeto:
 
 ---
 ## 🦸 Autores
-
-<a href="https://br.linkedin.com/in/thaisferreirademoura2004">
-<a href="https://www.linkedin.com/in/gustavo-rss?utm_source=share_via&utm_content=profile&utm_medium=member_ios">
-<a href="https://www.linkedin.com/in/anny-d-719892274?utm_source=share_via&utm_content=profile&utm_medium=member_android">
-<a href="https://www.linkedin.com/in/deivid-da-silva-afonso-dev/">
-
 <a href="#">
 
 <strong>Anny Michelle Gomes Diniz Alves</strong>
-
+<a href="https://www.linkedin.com/in/anny-d-719892274?utm_source=share_via&utm_content=profile&utm_medium=member_android">
 </a>
 
 <a href="#">
 
 <strong>David Afonso</strong>
-
+<a href="https://www.linkedin.com/in/deivid-da-silva-afonso-dev/">
 </a>
 
 <a href="#">
 
 <strong>Gustavo Robson</strong>
+<a href="https://www.linkedin.com/in/gustavo-rss?utm_source=share_via&utm_content=profile&utm_medium=member_ios">
 
 </a>
 
