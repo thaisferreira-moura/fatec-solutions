@@ -143,7 +143,7 @@ As seguintes tecnologias foram utilizadas na construção do projeto:
 
 <a href="https://www.linkedin.com/in/deivid-da-silva-afonso-dev/" target="_blank">
 
-<strong>David Afonso</strong>
+<strong>Deivid Afonso</strong>
 
 </a>
 
